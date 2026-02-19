@@ -18,11 +18,7 @@ This project focuses on detecting phishing attacks using machine learning techni
 - Processing: Feature Extraction + ML Model
 - Output: Legitimate or Phishing
 
-## 📁 Project Structure
-- /code → Python files
-- /data → Dataset
-- /images → Diagrams
-- /report → Project report
+
 
 ## ▶️ How to Run
 1. Install Python
